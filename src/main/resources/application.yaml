@@ -1,0 +1,9 @@
+spring:
+  artemis:
+    mode: embedded
+    embedded:
+      enabled: true
+
+logging:
+  level:
+    root: debug
